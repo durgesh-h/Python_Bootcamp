@@ -1,1 +1,1 @@
-# Equity Insight Navigator
+# Equity Insight Navigator using langchain
