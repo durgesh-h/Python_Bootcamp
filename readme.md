@@ -5,3 +5,5 @@
 - Langchain
 - LLM
 - NLP
+- Streamlit
+- Faiss
